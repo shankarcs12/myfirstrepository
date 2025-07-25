@@ -1,3 +1,9 @@
 THIS IS F2 IN BRANCH-33
+<<<<<<< HEAD
 2nd line added in master
 3rd line in master
+=======
+2nd line added in master.
+this 3rd line added in branch-33
+4th line check 
+>>>>>>> branch-33
